@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**betty-godier/betty-godier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 
 
-Here are some ideas to get you started:
+## About Me
+- 🔭 I’m currently focused on **AI Engineering**, **AI Product Management**, and contributing to the **AI Open Source** project, **Heathberry**.
+- ⚡ I’m writing **BettyNotes**, which is all about leading with efficiency, innovating in AI, refining methodologies, elevating leadership, ensuring excellence, and shaping the future.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+I’d love for you to subscribe to my newsletter on LinkedIn for insights and updates! 
+
+[Subscribe on LinkedIn](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7234984005916405760)
+
+Feel free to explore my projects and get in touch!

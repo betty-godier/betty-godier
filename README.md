@@ -9,7 +9,7 @@ You can explore my full portfolio here:
 
 
 > [!IMPORTANT]
-> I’m always open to new opportunities, collaborations, and discussions in the field of software engineering and DevSecOps.  
+> I’m always open to new opportunities, collaborations, and discussions in the field of Cybersecurity Leadership, AI, Cloud, Software Engineering and DevSecOps.  
 > Feel free to reach out via [email](mailto:hello@betty.dev)!
 
 

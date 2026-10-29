@@ -1,83 +1,37 @@
 # Betty Godier
 
-Cybersecurity & Engineering Advisor specialising in **cloud security, product security, DevSecOps, and AI governance**.  
-Bridging hands-on engineering with strategic advisory to help organisations build **secure, resilient, and scalable digital systems**.
+**Founder of [CyWatt®](https://cywatt.io/)** · *Secure software for critical energy systems.*
 
-Founder of **CyWatt** — *security that enables, not slows*.
-
----
-
-## Focus Areas
-
-- **Cloud Security Architecture**  
-  Azure & AWS security posture, identity, monitoring, landing zones, Defender
-
-- **Product & Secure-by-Design Engineering**  
-  Threat modelling, SSDLC, product security requirements, IoT & embedded systems
-
-- **DevSecOps & Secure Delivery**  
-  CI/CD hardening, IaC (Terraform), security automation, engineering maturity uplift
-
-- **AI Governance & Risk**  
-  AI Act readiness, secure AI architectures, SOC and detection implications
-
-- **Security Maturity & Compliance**  
-  NIS2, ISO 27001, SOC2, audit readiness, pragmatic governance models
+CyWatt designs and builds end-to-end energy management platforms, and supports their operation.
+Security by design is how we build, not an add-on.
 
 ---
+
+## What we work on
+
+- **Energy management software (EMS)**
+  Software that decides how much power to send to each asset, sends it, then checks it was delivered.
+  Batteries, chargers, inverters, always within the grid connection limit, whatever the manufacturer.
+
+- **Flexibility and markets**
+  Demand response and day-ahead scheduling in production; plan vs. measurement reconciliation.
+
+- **Cybersecurity for energy systems**
+  Audit of installations and remote access, NIS2 compliance, continuous monitoring.
+
+- **Secure-by-design engineering**
+  Threat modelling, SSDLC, device protocols, separated machine privileges, security review before every release.
 
 ## Background
 
-Former **engineering director** and **founder of a high-tech engineering company**, with hands-on experience across:
+Engineering director and founder of the company now named CyWatt (since 2020), with hands-on experience across
+cloud-native platforms, IoT and industrial environments, and large-scale transformation programs.
+A complete platform delivered to production in six months, then a release every one to two weeks.
 
-- Cloud-native platforms  
-- Mobile and data-driven systems  
-- IoT and industrial environments  
-- Large-scale transformation programs  
+## What you'll find here
 
-I work at the intersection of **engineering reality and security strategy**, supporting CTOs, CISOs, architects, and engineering leaders when complexity, risk, or scale becomes a blocker.
+- Notes on energy software and secure architecture
+- Practical patterns for IoT, OT and cloud security
+- Experiments, references and technical tooling
 
----
-
-## What You’ll Find Here
-
-This repository and related projects may include:
-
-- Security and cloud architecture notes  
-- DevSecOps patterns and practical examples  
-- Engineering-focused security insights  
-- Experiments, references, and technical tooling  
-- Material supporting advisory and training work  
-
-Content is pragmatic, opinionated, and grounded in real-world delivery constraints.
-
----
-
-## Philosophy
-
-- Security is not bureaucracy  
-- Security is not theatre  
-- Security is not a blocker  
-
-**Security is an engineering discipline and a strategic enabler** — when designed, measured, and owned properly.
-
----
-
-## Links
-
-- 🌐 **CyWatt** — https://cywatt.io  
-- 💼 **LinkedIn** — https://www.linkedin.com/in/betty-godier  
-- 📘 **Publication** — *The IoT Security Blueprint* (RED / ETSI EN 303 645 / CRA readiness)
-
----
-
-## Contact & Collaboration
-
-I collaborate on:
-
-- Security assessments and architecture reviews  
-- Cloud and product security programs  
-- DevSecOps and engineering maturity initiatives  
-- Advisory, workshops, and technical leadership support  
-
-If your work aligns with **secure-by-design engineering**, **cloud security**, or **measurable resilience**, feel free to reach out.
+Pragmatic, opinionated, grounded in real-world delivery constraints.
